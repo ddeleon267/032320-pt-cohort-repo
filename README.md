@@ -184,7 +184,6 @@ Day 5 - JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
 |**Week 33**|
 |Live Lecture - React State & Events|||
 |Live Lecture - Intro to React & Props|[Video](https://youtu.be/Q57E8ziH3qE)|[Code](https://github.com/ddeleon267/intro-react-sg)|[Resources](https://docs.google.com/document/d/13Ljpw7QPwIo1ulmZNKKb4jvFSc0ED9f9qVDg4h6gCl8/edit)|
-
 |**Week 30**|
 |Open Office Hours|[Video](https://youtu.be/ztPS1CGyyyo)||
 |Live Lecture - JS Prototypal Inheritance|[Video](https://youtu.be/7WU46lj65dE)|[Code](https://github.com/ddeleon267/rails-as-an-api-sg)|[Project Resources](https://docs.google.com/document/d/1lU3eh4CaAZxeX573NFcTX0-S_kltZolG9V07F25KHrk/edit)|
