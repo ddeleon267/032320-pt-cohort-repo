@@ -48,11 +48,11 @@ Katie McKenna - katie.mckenna@flatironschool.com - [Booking Link](https://katiem
 - Understand that the component is the building block of React apps
 - Create static and dynamic components, render them in the browser, and inspect the html that is generated (bonus points if you can look at them in the react devtools!)
 
-Day 1 - React - Node Package Manager (2 Lessons)
-Day 2 - React - Introduction to React (This Is React Readme) (1 Lessons)
-Day 3 - React - Introduction to React (Finish) (2 Lessons)
-Day 4 - React - Introduction to Components (Static Components Lab) (2 Lessons)
-Day 5 - React - Introduction to Components (Finish) (2 Lessons)
+- Day 1 - React - Node Package Manager (2 Lessons)
+- Day 2 - React - Introduction to React (This Is React Readme) (1 Lessons)
+- Day 3 - React - Introduction to React (Finish) (2 Lessons)
+- Day 4 - React - Introduction to Components (Static Components Lab) (2 Lessons)
+- Day 5 - React - Introduction to Components (Finish) (2 Lessons)
 
 # Weekly Assignments
 ### Week 32: November 2nd, 2020
