@@ -51,11 +51,11 @@ Katie McKenna - katie.mckenna@flatironschool.com - [Booking Link](https://katiem
 - Update state with event listeners and event handlers
 - Use controlled inputs to validate form values
 
-Day 1 - React - Props and State (Modular Code) (3 Lessons)
-Day 2 - React - Props and State (Simple State Lab) (4 Lessons)
-Day 3 - React - Props and State (Finish), React - Events (Event System Lab) (4 Lessons)
-Day 4 - React - Events (Finish) (4 Lessons)
-Day 5 - React - Forms (3 Lessons)
+- Day 1 - React - Props and State (Modular Code) (3 Lessons)
+- Day 2 - React - Props and State (Simple State Lab) (4 Lessons)
+- Day 3 - React - Props and State (Finish), React - Events (Event System Lab) (4 Lessons)
+- Day 4 - React - Events (Finish) (4 Lessons)
+- Day 5 - React - Forms (3 Lessons)
 
 ### Week 33: November 16th, 2020
 #### This week's focus:  React!
@@ -105,11 +105,11 @@ Day 5 - React - Forms (3 Lessons)
 - Describe the inheritance model of JavaScript as being based on a prototype
 - Build and use constructor functions
 
-Day 1 - JS and Rails - Object Orientation in JavaScript (OOJS: Methods Types) (5 Lessons)
-Day 2 - JS and Rails - Object Orientation in JavaScript (Finish), JS and Rails - OO JavaScript: Inheritance (OOJS: Class Extension And Inheritance Extends) (4 Lessons)
-Day 3 - JS and Rails - OO JavaScript: Inheritance (Finish) (5 Lessons)
-Day 4 - JS and Rails - OO JavaScript: Prototypal Inheritance (OOJS: Predicting Constructor Effects) (4 Lessons)
-Day 5 - JS and Rails - OO JavaScript: Prototypal Inheritance (Finish) (4 Lessons)
+- Day 1 - JS and Rails - Object Orientation in JavaScript (OOJS: Methods Types) (5 Lessons)
+- Day 2 - JS and Rails - Object Orientation in JavaScript (Finish), JS and Rails - OO JavaScript: Inheritance (OOJS: Class Extension And Inheritance Extends) (4 Lessons)
+- Day 3 - JS and Rails - OO JavaScript: Inheritance (Finish) (5 Lessons)
+- Day 4 - JS and Rails - OO JavaScript: Prototypal Inheritance (OOJS: Predicting Constructor Effects) (4 Lessons)
+- Day 5 - JS and Rails - OO JavaScript: Prototypal Inheritance (Finish) (4 Lessons)
 
 
 ### Week 29: October 12th, 2020
