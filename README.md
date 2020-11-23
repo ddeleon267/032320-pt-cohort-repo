@@ -181,6 +181,9 @@ Day 5 - JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+|**Week 34**|
+|React Hooks / Office Hours||||
+|Live Lecture - React Forms||||
 |**Week 33**|
 |Live Lecture - React State & Events|[Video](https://youtu.be/3IPPnoYdPzY)|[Code](https://github.com/ddeleon267/react-state-events-sg)|[Resources](https://docs.google.com/document/d/1d8Hn1EEiNcir84XuNRK_1yO7nnELLa4QE_x1VUaBvyE/edit?usp=sharing)
 |Live Lecture - Intro to React & Props|[Video](https://www.youtube.com/watch?v=hWV_Rpz8H3A&feature=youtu.be)||[Resources](https://docs.google.com/document/d/13Ljpw7QPwIo1ulmZNKKb4jvFSc0ED9f9qVDg4h6gCl8/edit)|
