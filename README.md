@@ -11,32 +11,52 @@ Katie McKenna - katie.mckenna@flatironschool.com - [Booking Link](https://katiem
 - [Schedule your javascript assessment!](https://go.oncehub.com/StructuredProgramJavascriptProjectReviews)
 
 ## Announcements:
-- Mod 5 starts on 11/16! Due to the Thanksgiving Holiday (Flatiron is closed 11/26 and 11/27) the Mod 4 review DEADLINE has been moved to EOB on Monday, 11/30. Try to schedule your first attempt as early as possible, to allow for a second (or third) attempt if needed. For mods 4 and 5, it is probably a safe bet to assume that you will need to do at least two attempts - the bar is higher for these projects.
+- Due to the Thanksgiving Holiday (Flatiron is closed 11/26 and 11/27) the Mod 4 review DEADLINE is EOB on Monday, 11/30. 
+- Our normal "Tuesday" study group has been moved to Monday due to the shortened week
+- There are several open office hours listed this week (check our calendar) due to the shortened week, but if you normally meet with me Thursday/Friday you are welcome to use my booking link to book another 1:1 if there are slots available
+- During our 6-7ET open office hours on Wednesday we will cover React Hooks, which are not covered in the curriculum. As always, all study groups are recorded!
+
 
 ## Any questions or issues please DM me.
 
-**Pairings for the week of 11/16**
+**Pairings for the week of 11/22**
 
 | Partner 1 | Partner 2 | Partner 3 |
 | ------------- |-------------|-------------|
-| Curtis Chadwell   | Chloe Steffens   |
-| Allan Farca   | Sandie Nunez |
-| Jeanette Rosario   | Joshua Perez-Leduc   |
-| Heather Moreira   | Nabil Hayet |
-| Latricia Nickelberry   | Sydney Hunter    |
-| Angel Brown   | Thomas Wright    |
-| Sara Garza  | Sergey Zolotukhin    |
-| Abdul Khan   | Meghan Flynn    |
-| Jharell Chambers   |  Winston Chung   |
-| Jimmy Millard   | Charity Parks    | Viktoriia Beznisko |
-| Vladimir  Jimenez   | Norberto Santiago    |
-| Omar Nabi  | Aaron Harvey    |
-| Pledge Davis   |  JacksonMorgan Gray    |
-| Pouya Hajiseyedjavadi   | Victor Plushko    |
-| Shamel Lakin  | Evan Smith    |
+| Meghan Flynn   | Heather Moreira    | Curtis Chadwell|
+| Angel Brown   | Norberto Santiago    |
+| Winston Chung   | Thomas Wright    |
+| Viktoriia Beznisko   | Evan Smith    |
+| Charity Parks   | Jackson Morgan Gray    |
+| Latricia Nickelberry   | Aaron Harvey    |
+| Sara Garza   | Vladimir  Jimenez    |
+| Joshua Perez-Leduc   | Chloe Steffens    |
+| Jharell Chambers   | Nabil Hayet    |
+| Jimmy Millard   | Sandie Nunez    |
+| Sergey Zolotukhin   | Pledge Davis    |
+| Victor Plushko   | Pouya Hajiseyedjavadi    |
+| Omar Nabi   | Jeanette Rosario    |
+| Sydney Hunter   | Abdul Khan    |
+| Shamel Lakin   | Allan Farca    |
 
 
 # Weekly Assignments
+### Week 34: November 22nd, 2020
+#### This week's focus:  React!
+#### By the end of this week, you should be able to:
+- Pass props to a component by adding them as attributes when you render the component
+- Add event handlers to components and handle events successfully with callbacks
+- Explain what state is, and the difference between state and props
+- Set initial state within a constructor and update state using this.setState()
+- Update state with event listeners and event handlers
+- Use controlled inputs to validate form values
+
+Day 1 - React - Props and State (Modular Code) (3 Lessons)
+Day 2 - React - Props and State (Simple State Lab) (4 Lessons)
+Day 3 - React - Props and State (Finish), React - Events (Event System Lab) (4 Lessons)
+Day 4 - React - Events (Finish) (4 Lessons)
+Day 5 - React - Forms (3 Lessons)
+
 ### Week 33: November 16th, 2020
 #### This week's focus:  React!
 #### By the end of this week, you should be able to:
@@ -54,7 +74,7 @@ Katie McKenna - katie.mckenna@flatironschool.com - [Booking Link](https://katiem
 - Day 4 - React - Introduction to Components (Static Components Lab) (2 Lessons)
 - Day 5 - React - Introduction to Components (Finish) (2 Lessons)
 
-# Weekly Assignments
+
 ### Week 32: November 2nd, 2020
 #### This week's focus:  Javascript/Rails Project Mode!
 #### By the end of this week, you should be able to:
@@ -64,7 +84,6 @@ Katie McKenna - katie.mckenna@flatironschool.com - [Booking Link](https://katiem
 - Add styling to your project!
 
 
-# Weekly Assignments
 ### Week 31: October 26th, 2020
 #### This week's focus:  Javascript/Rails Project Mode!
 #### By the end of this week, you should be able to:
@@ -157,25 +176,6 @@ Day 2 - JS and Rails - Recognizing JavaScript Events (Acting On Events) (3 Lesso
 Day 3 - JS and Rails - Recognizing JavaScript Events (JS Fundamentals: Scope Chain) (3 Lessons)
 Day 4 - JS and Rails - Recognizing JavaScript Events (Task Lister Lite) (4 Lessons)
 Day 5 - JS and Rails - Recognizing JavaScript Events (Finish) (3 Lessons)
-
-
-### Week 25: September 14th, 2020
-#### This week's focus: JS and Rails
-#### By the end of this week, you should be able to:
-- Understand what the DOM is & how HTML elements are organized
-- Explain the Javascript / DOM relationship
-- Understand that the source is not changed when the DOM is
-- Use Chrome DevTools to view the DOM and manipulate DOM elements
-- Identify when to use var, let, and const when declaring variables in JS
-- Invoke JS methods to search for DOM elements and manipulate them (create, update, delete)
-- Define and manipulate arrays in JS
-- Use loops in JS
-
-Day 1 -  JS and Rails - Defining Front-End Web Programming,  JS and Rails - Manipulating the DOM (Introducing The DOM And Just Enough JavaScript) (3 Lessons)
-Day 2 - JS and Rails - Manipulating the DOM (Changing The Dom With Dev Tools And JavaScript) (3 Lessons)
-Day 3 - JS and Rails - Manipulating the DOM (The DOM Tree) (4 Lessons)
-Day 4 - JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (3 Lessons)
-Day 5 - JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
 
 # Study Group Videos and Code
 
