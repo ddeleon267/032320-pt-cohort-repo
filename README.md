@@ -182,7 +182,7 @@ Day 5 - JS and Rails - Recognizing JavaScript Events (Finish) (3 Lessons)
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 34**|
-|React Hooks / Office Hours||||
+|React Hooks / Office Hours|[Video](https://youtu.be/PDUo2HLGKv4)|1. [Simple example](https://github.com/ddeleon267/simple-hooks-useState-ex-032320/blob/main/src/People.js) 2. [Refactor of previous events/forms code](https://github.com/ddeleon267/hooks-setState-refactor-events-forms)|[Resources](https://docs.google.com/document/d/1HbB3bxMeLzP2-45IsBkQyTkpsM-8wy4MtVmO-T8Su5M/edit)|
 |Live Lecture - React Forms|[Video](https://youtu.be/iemJQkSxOns)|[Code](https://github.com/ddeleon267/react-forms-study-group)|[React Refs](https://reactjs.org/docs/refs-and-the-dom.html)|
 |**Week 33**|
 |Live Lecture - React State & Events|[Video](https://youtu.be/3IPPnoYdPzY)|[Code](https://github.com/ddeleon267/react-state-events-sg)|[Resources](https://docs.google.com/document/d/1d8Hn1EEiNcir84XuNRK_1yO7nnELLa4QE_x1VUaBvyE/edit?usp=sharing)
