@@ -21,11 +21,11 @@ Katie McKenna - katie.mckenna@flatironschool.com - [Booking Link](https://katiem
 | Abdul Khan   | Thomas Wright    | Jeanette Rosario |
 | Latricia Nickelberry   | Omar Nabi    |
 | Winston Chung   | Nabil Hayet    |
-| Aaron Harvey   | JacksonMorgan Gray    |
+| Aaron Harvey   | Jackson Morgan Gray    |
 | Victor Plushko   | Shamel Lakin    |
 | Pouya Hajiseyedjavadi   | Sergey Zolotukhin    |
 | Sydney Hunter   | Norberto Santiago    |
-| Chloe Steffens   | HeatherMoreira    |
+| Chloe Steffens   | Heather Moreira    |
 | Sandie Nunez   | Viktoriia Beznisko    |
 | Allan Farca   | Angel Brown    |
 | Jharell Chambers   | Curtis Chadwell    |
