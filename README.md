@@ -11,36 +11,69 @@ Katie McKenna - katie.mckenna@flatironschool.com - [Booking Link](https://katiem
 - [Schedule your javascript assessment!](https://go.oncehub.com/StructuredProgramJavascriptProjectReviews)
 
 ## Announcements:
-- Due to the Thanksgiving Holiday (Flatiron is closed 11/26 and 11/27) the Mod 4 review DEADLINE is EOB on Monday, 11/30. 
-- Our normal "Tuesday" study group has been moved to Monday due to the shortened week
-- There are several open office hours listed this week (check our calendar) due to the shortened week, but if you normally meet with me Thursday/Friday you are welcome to use my booking link to book another 1:1 if there are slots available
-- During our 6-7ET open office hours on Wednesday we will cover React Hooks, which are not covered in the curriculum. As always, all study groups are recorded!
+- I hope you all had a great Thanksgiving! 
+- Watch your blog post count! Remember that you need at least 7 blog posts to graduate. This includes your First Mile blog post, 5 project blog posts, and at least one more blog post on a code-related topic of your choosing. Make sure that if you have an internal blog, it's connected to learn so you can get credit for your posts!
 
 
 ## Any questions or issues please DM me.
 
-**Pairings for the week of 11/22**
+**Pairings for the week of 11/30**
 
 | Partner 1 | Partner 2 | Partner 3 |
 | ------------- |-------------|-------------|
-| Meghan Flynn   | Heather Moreira    | Curtis Chadwell|
-| Angel Brown   | Norberto Santiago    |
-| Winston Chung   | Thomas Wright    |
-| Viktoriia Beznisko   | Evan Smith    |
-| Charity Parks   | Jackson Morgan Gray    |
-| Latricia Nickelberry   | Aaron Harvey    |
-| Sara Garza   | Vladimir  Jimenez    |
-| Joshua Perez-Leduc   | Chloe Steffens    |
-| Jharell Chambers   | Nabil Hayet    |
-| Jimmy Millard   | Sandie Nunez    |
-| Sergey Zolotukhin   | Pledge Davis    |
-| Victor Plushko   | Pouya Hajiseyedjavadi    |
-| Omar Nabi   | Jeanette Rosario    |
-| Sydney Hunter   | Abdul Khan    |
-| Shamel Lakin   | Allan Farca    |
+| Abdul Khan   | Thomas Wright    | Jeanette Rosario |
+| Latricia Nickelberry   | Omar Nabi    |
+| Winston Chung   | Nabil Hayet    |
+| Aaron Harvey   | JacksonMorgan Gray    |
+| Victor Plushko   | Shamel Lakin    |
+| Pouya Hajiseyedjavadi   | Sergey Zolotukhin    |
+| Sydney Hunter   | Norberto Santiago    |
+| Chloe Steffens   | HeatherMoreira    |
+| Sandie Nunez   | Viktoriia Beznisko    |
+| Allan Farca   | Angel Brown    |
+| Jharell Chambers   | Curtis Chadwell    |
+| Vladimir  Jimenez   | Jimmy Millard    |
+| Charity Parks   | Sara Garza    |
+| Evan Smith   | Joshua Perez-Leduc    |
+| Meghan Flynn   | Pledge Davis    |
 
 
 # Weekly Assignments
+
+### Week 35: November 30th, 2020
+#### This week's focus:  React! Lifecyle methods and Async React
+#### By the end of this week, you should be able to:
+
+- Describe the three phases of the React component lifecycle
+- Define and describe various lifecycle methods
+- Describe the parts of the component lifecycle leading up to and coming after render()
+- Perform setup and teardown actions at the appropriate point in the React component lifecycle.
+- Create a React component that utilizes fetch to display content
+
+1. - React - Lifecycle Methods (Component Mounting And Unmounting Readme) (2 Lessons)
+2. - React - Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (2 Lessons)
+3. - React - Lifecycle Methods (Finish) (2 Lessons)
+4. - React - Async React (Async Fetch Lab) (2 Lessons)
+5. - React - Async React (Finish) (1 Lessons)
+
+# Suggested practice
+
+These are some labs that have been used in our immersive courses but are not included in the current learn.co curriculum. If you feel like you could use some additional practice with some React concepts, and you are at least on pace, take a stab at some of these! I don't suggest you do all of these, just enough to feel confident :)
+
+## After React Forms
+- Hogwarts: https://github.com/learn-co-curriculum/hogwarts/
+- Build a front-end only CRUD app
+- Rebuild Task Lister Lite in React: https://- learn-co-curriculum.github.io/js-task-lister-lite/
+- Rebuild the DOM Challenge in React: https://github.com/learn-co-curriculum/jsdom-dom-challenge
+
+## After Async React
+- Pokemon Searcher: https://github.com/learn-co-curriculum/react-pokemon-searcher
+- Sushi Saga: https://github.com/learn-co-curriculum/React-Practice-Code-Challenge
+- React Pizza: https://github.com/learn-co-curriculum/React-Pizza
+- Flatiron Stonks: https://github.com/learn-co-curriculum/React-Stocks
+- React Toy Tales: https://github.com/learn-co-curriculum/react-toy-tales
+
+
 ### Week 34: November 22nd, 2020
 #### This week's focus:  React!
 #### By the end of this week, you should be able to:
@@ -158,29 +191,13 @@ Day 3 - JS and Rails - Communication with the Server (JS Fundamentals: Traversin
 Day 4 - JS and Rails - Communication with the Server (Finish) (4 Lessons)
 Day 5 - JS and Rails - Putting it all Together (2 Lessons)
 
-
-
-### Week 26: September 21st, 2020
-#### This week's focus: JS and Rails - Recognizing Javascript Events
-#### By the end of this week, you should be able to:
-
-- Call functions, with or without arguments, and return values from functions
-- Define a JavaScript event, and identify different types of user events
-- Add event listeners on DOM nodes with addEventListener() and create JavaScript functions that are triggered by an event
-- Identify how scope works in JavaScript, and identify different types of scope
-- Describe the scope chain and demonstrate how lexical scoping informs the scope chain of a function
-- Identify how function and variable declarations are hoistedIdentify the differences between var, let, and const, and describe best variable declaration practices
-
-Day 1 - JS and Rails - Recognizing JavaScript Events (Functions In JavaScript) (3 Lessons)
-Day 2 - JS and Rails - Recognizing JavaScript Events (Acting On Events) (3 Lessons)
-Day 3 - JS and Rails - Recognizing JavaScript Events (JS Fundamentals: Scope Chain) (3 Lessons)
-Day 4 - JS and Rails - Recognizing JavaScript Events (Task Lister Lite) (4 Lessons)
-Day 5 - JS and Rails - Recognizing JavaScript Events (Finish) (3 Lessons)
-
 # Study Group Videos and Code
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+|**Week 35**|
+|Live Lecture - Presentational vs Container Components||||
+|Live Lecture - React Lifecycle Methods||||
 |**Week 34**|
 |React Hooks / Office Hours|[Video](https://youtu.be/PDUo2HLGKv4)|1. [Simple example](https://github.com/ddeleon267/simple-hooks-useState-ex-032320/blob/main/src/People.js) 2. [Refactor of previous events/forms code](https://github.com/ddeleon267/hooks-setState-refactor-events-forms)|[Resources](https://docs.google.com/document/d/1HbB3bxMeLzP2-45IsBkQyTkpsM-8wy4MtVmO-T8Su5M/edit)|
 |Live Lecture - React Forms|[Video](https://youtu.be/iemJQkSxOns)|[Code](https://github.com/ddeleon267/react-forms-study-group)|[React Refs](https://reactjs.org/docs/refs-and-the-dom.html)|
