@@ -60,7 +60,7 @@ These are some labs that have been used in our immersive courses but are not inc
 ## After React Forms
 - Hogwarts: https://github.com/learn-co-curriculum/hogwarts/
 - Build a front-end only CRUD app
-- Rebuild Task Lister Lite in React: https:// learn-co-curriculum.github.io/js-task-lister-lite/
+- Rebuild Task Lister Lite in React: https://learn-co-curriculum.github.io/js-task-lister-lite/
 - Rebuild the DOM Challenge in React: https://github.com/learn-co-curriculum/jsdom-dom-challenge
 
 ## After Async React
