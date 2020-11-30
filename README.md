@@ -7,9 +7,6 @@ Dominique De Leon - dominique.deleon@flatironschool.com - [Schedule 1:1 time wit
 ## Your Educational Coach:
 Katie McKenna - katie.mckenna@flatironschool.com - [Booking Link](https://katiemckenna.youcanbook.me/service/jsps/cal.jsp?cal=9772962d-a4c0-4141-be45-b829efe3a91a&ini=1584729963217&service=jsid9132396)
 
-## Helpful links:
-- [Schedule your javascript assessment!](https://go.oncehub.com/StructuredProgramJavascriptProjectReviews)
-
 ## Announcements:
 - I hope you all had a great Thanksgiving! 
 - Watch your blog post count! Remember that you need at least 7 blog posts to graduate. This includes your First Mile blog post, 5 project blog posts, and at least one more blog post on a code-related topic of your choosing. Make sure that if you have an internal blog, it's connected to learn so you can get credit for your posts!
