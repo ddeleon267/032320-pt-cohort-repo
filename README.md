@@ -194,7 +194,7 @@ Day 5 - JS and Rails - Putting it all Together (2 Lessons)
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 35**|
 |Live Lecture - Presentational vs Container Components||||
-|Live Lecture - React Lifecycle Methods||||
+|Live Lecture - React Lifecycle Methods|[Video](https://youtu.be/jU7zEI0SfB8)|[Code](https://github.com/ddeleon267/lifecycle-methods-sg-plus-useEffect-hook/blob/main/notes.md)|[Resources](https://docs.google.com/document/d/1BqWsAaYSjiEwf03OfjNmrM9l7ZlXpb3P5xRqxZmXaao/edit)|
 |**Week 34**|
 |React Hooks / Office Hours|[Video](https://youtu.be/PDUo2HLGKv4)|1. [Simple example](https://github.com/ddeleon267/simple-hooks-useState-ex-032320/blob/main/src/People.js) 2. [Refactor of previous events/forms code](https://github.com/ddeleon267/hooks-setState-refactor-events-forms)|[Resources](https://docs.google.com/document/d/1HbB3bxMeLzP2-45IsBkQyTkpsM-8wy4MtVmO-T8Su5M/edit)|
 |Live Lecture - React Forms|[Video](https://youtu.be/iemJQkSxOns)|[Code](https://github.com/ddeleon267/react-forms-study-group)|[React Refs](https://reactjs.org/docs/refs-and-the-dom.html)|
